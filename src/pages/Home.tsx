@@ -31,7 +31,7 @@ export default function Home() {
                 <div className="flex-shrink-0">
                   <img
                     className="mx-auto h-40 w-40 rounded-full border-4 border-white dark:border-gray-700 shadow-xl"
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80"
+                    src="https://github.com/Reysajju/portfolio-sajjad/blob/main/sajjad.jpeg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80"
                     alt="Muhammad Sajjad Rasool"
                   />
                 </div>
