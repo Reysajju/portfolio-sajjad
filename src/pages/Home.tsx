@@ -78,15 +78,24 @@ export default function Home() {
                 </div>
               </div>
               <div className="mt-6 flex flex-col gap-4 sm:mt-0">
-                <motion.button 
+              <motion.button
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.5 }}
                   className="flex items-center justify-center rounded-lg bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow-lg hover:bg-indigo-500 transition-colors"
+                  onClick={() => {
+                    const link = document.createElement("a");
+                    link.href = "muhammad-sajjad-rasool.pdf"; // Update with actual file path
+                    link.download = "muhammad-sajjad-rasool.pdf";
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                  }}
                 >
                   <Download className="mr-2 h-5 w-5" />
                   Download CV
                 </motion.button>
+
                 <motion.div 
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}

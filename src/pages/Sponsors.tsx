@@ -11,6 +11,7 @@ const sponsors = [
   {
     name: 'Street Wise Ads',
     description: 'Pakistan based marketing business via ads on rickshaw autos and cars',
+    website: 'swa.magnatesempire.com',
     icon: MessageSquare
   }
 ];
