@@ -16,7 +16,7 @@ export default function About() {
             Professional Background
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            A dedicated Quality Assurance Executive with a strong background in chemistry and a passion for ensuring excellence in software development.
+            A dedicated Senior Executive - Quality Assurance Executive with a strong background in chemistry and a passion for ensuring excellence in software development.
           </p>
         </motion.div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -46,7 +46,7 @@ export default function About() {
                 Experience
               </dt>
               <dd className="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
-                <p className="flex-auto">Quality Assurance Officer at Intersys Ltd and former Dispatching Manager at Kart Solutions</p>
+                <p className="flex-auto">Senior Executive - Quality Assurance Officer at Intersys Ltd and former Dispatching Manager at Kart Solutions</p>
               </dd>
             </motion.div>
             <motion.div

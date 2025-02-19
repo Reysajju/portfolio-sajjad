@@ -4,7 +4,7 @@ import { Briefcase } from 'lucide-react';
 const experiences = [
   {
     company: 'Intersys Ltd',
-    position: 'Quality Assurance Officer',
+    position: 'Senior Executive - Quality Assurance',
     duration: 'Nov 2023 - Sep 2024',
     location: 'Karachi, Pakistan',
     current: true
