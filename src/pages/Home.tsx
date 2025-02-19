@@ -50,7 +50,7 @@ export default function Home() {
                     transition={{ delay: 0.3 }}
                     className="mt-2 text-lg font-medium text-indigo-600 dark:text-indigo-400"
                   >
-                    Quality Assurance Executive at Intersys Ltd
+                    Senior Executive - Quality Assurance Executive at Intersys Ltd
                   </motion.p>
                   <motion.div 
                     initial={{ opacity: 0 }}
@@ -150,7 +150,7 @@ export default function Home() {
             >
               <h2 className="text-2xl font-bold text-gray-900 dark:text-white">About</h2>
               <p className="mt-4 text-lg leading-relaxed text-gray-600 dark:text-gray-400">
-                Quality Assurance Executive with a strong background in chemistry and a passion for ensuring excellence in software development. 
+                Senior Executive - Quality Assurance Executive with a strong background in chemistry and a passion for ensuring excellence in software development. 
                 Experienced in both manual and automated testing, with a keen eye for detail and a commitment to maintaining high quality standards.
                 Proven track record in implementing effective QA processes and collaborating with cross-functional teams to deliver high-quality software solutions.
               </p>
@@ -171,7 +171,7 @@ export default function Home() {
                   <div className="relative pl-6 border-l-2 border-gray-200 dark:border-gray-700">
                     <div className="absolute -left-1 top-0 w-2 h-2 bg-indigo-600 rounded-full" />
                     <h3 className="text-lg font-bold text-gray-900 dark:text-white">
-                      Quality Assurance Executive
+                      Senior Executive - Quality Assurance Executive
                     </h3>
                     <p className="text-sm text-gray-600 dark:text-gray-400">Intersys Ltd (2021 - Present)</p>
                     <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">
